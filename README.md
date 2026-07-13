@@ -1,7 +1,7 @@
  <div align="center"> 
    
  <!--  [![](https://visitcount.itsvg.in/api?id=swikritspk&icon=10&color=13)](https://visitcount.itsvg.in) -->
-   ![](https://komarev.com/ghpvc/?username=swikritspk&abbreviated=true&base=400&label=PROFILE+VIEWS&style=for-the-badge)
+   ![](https://komarev.com/ghpvc/?username=swikritspk&abbreviated=true&base=10&label=PROFILE+VIEWS&style=for-the-badge)
 # Hi there 👋 </br>
 
    <br>
