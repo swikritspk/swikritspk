@@ -9,7 +9,7 @@
  </div>
 
 
-- I'm Swikrit Sapkota,<br> -  IT student from Nepal 🇳🇵,<br> - 📫 How to reach me: adarasha.gaihre106@gmail.com , www.adarashagaihre.com.np<br> - ⚡ Fun fact: i am in love with 🦚: coding💻, drawing 🖌️, and Watching anime 🦊.<br> - 🌱 I’m currently learning  Go, C, Zig , Next
+- I'm Swikrit Sapkota,<br> -  IT student from Nepal 🇳🇵,<br> - 📫 How to reach me: sapkotaswikrit@gmail.com  <br> - ⚡ Fun fact: i am in love with 🦚: coding💻, drawing 🖌️, and Watching anime 🦊.<br> - 🌱 I’m currently learning c, c++, react.js
 </br>
 
 ---
@@ -127,7 +127,6 @@
 
 
 ![](https://github-profile-trophy.vercel.app/?username=aakkswikritspku106&theme=radical&border_radius=16&no-frame=false&no-bg=false&margin-w=4)
-
 
 
  
