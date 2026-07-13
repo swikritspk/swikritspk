@@ -136,7 +136,7 @@
 
 <div align="center" >  
  
-   ![](https://komarev.com/ghpvc/?username=swikritspk&abbreviated=true&base=400&label=PROFILE+VIEWS)
+   ![](https://komarev.com/ghpvc/?username=swikritspk&abbreviated=true&base=10&label=PROFILE+VIEWS)
 
 <!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=swikritspk&label=Profile%20Views&icon=5&pretty=true" />
